@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Light";
+    src: local("RockSalt-Regular"), 
+    url("./fonts/RockSalt-Regular.ttf") format ("truetype");
+}
+#first {
+font-family: "Light";
+background-color: '#eaeaea';
+text-align: right;
+}

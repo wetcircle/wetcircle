@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcf1c5578bbde7ceec0e99094c41371de7f2bc9a9",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcf1c5578bbde7ceec0e99094c41371de7f2bc9a9#code",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Numbers",
+  "SYMBOL": "NUM",
+  "MAX_SUPPLY": 2021,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 114000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/numbers-ghjoj2ann8",
+  "SHOW_BACKGROUND": false
+}
